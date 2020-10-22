@@ -51,6 +51,7 @@ div p ul li {
     float: left;
     margin: 0 0 10px 0;
     padding: 2px;
+    padding-right: 10px;
 }
 
 .question{
@@ -123,7 +124,7 @@ div p ul li {
 }
 
 #redes {
-    background-image: url("../images/barra.png");
+    background-image: url("../images/barra-azul.png");
 }
 
 .bg-comercial{
@@ -174,6 +175,7 @@ div p ul li {
         padding: 0 30px;
     }
 }
+
 
 
 /*

@@ -61,13 +61,13 @@
 */
 
 .title-underline-base-color {
-    border-color: #4D8B8B;
+    /* border-color: #4D8B8B; */
 }
 .title-underline-thick-base-color {
-    border-color: #4D8B8B;
+    /* border-color: #4D8B8B; */
 }
 .title-sideline-base-color:before {
-    background-color: #4D8B8B;
+    /* background-color: #4D8B8B; */
 }
 
 
